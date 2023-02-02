@@ -14,6 +14,8 @@ Josips Boot and Recover (also known as Project Codename: Resurrection) is a modi
 
 **Motherboard Firmware:** UEFI is Recommended but not needed
 
+**Apple iMac Support:** This Operating Systems supports Apple computers wiht Intel-based Processors
+
 # Download
 
 Link: 
