@@ -4,6 +4,13 @@ Josips Boot and Recover (also known as Project Codename: Resurrection) is a modi
 
 # System Requirments
 
+CPU: Any 86-64-bit based CPU from Intel or AMD that has 1 Core, 1Ghz or faster
+GPU: Integrated Graphics
+Memory: 4GB
+USB Drive Size: 4GB
+Motherboard Firmware Type: UEFI
+
+
 
 
 
