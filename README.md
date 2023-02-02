@@ -10,6 +10,11 @@ Memory: 4GB
 USB Drive Size: 4GB
 Motherboard Firmware Type: UEFI
 
+#Download
+
+Link: <link goes here>
+
+
 
 
 
