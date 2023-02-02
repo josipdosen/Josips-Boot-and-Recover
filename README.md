@@ -6,7 +6,7 @@ Josips Boot and Recover (also known as Project Codename: Resurrection) is a modi
 
 **Processor (CPU):** 
 
-**Storage Space:** 
+**USB Storage:** 
 
 **Memory (RAM):** 
 
