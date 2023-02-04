@@ -33,12 +33,12 @@ Link:
 
 These were all the systems used for testing to ensure that the Operating System works on wide variety of systems:
 
-Custom Gaming PC (Desktop): Intel Core i5 9400F  
-Acer Swift 3 (Laptop):
-Dell Latitude E5540 (Laptop):
-Dell Inspiron 560 (Desktop):
-Apple iMac Mid 2010 (Desktop):
-MSI Gaming GF63 Thin 9SCSR (Laptop):
+**-Custom Gaming PC (Desktop)-** CPU: Intel Core i5 9400F - GPU: NVIDIA RTX 3060 - Memory (RAM): 16 GB - UEFI Firmware Enabled with Secure Boot  
+**Acer Swift 3 (Laptop):**
+**Dell Latitude E5540 (Laptop):**
+**Dell Inspiron 560 (Desktop):**
+**Apple iMac Mid 2010 (Desktop):**
+**MSI Gaming GF63 Thin 9SCSR (Laptop):**
 
 
 
