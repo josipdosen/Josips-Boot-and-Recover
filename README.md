@@ -29,6 +29,10 @@ Link:
 
 
 
+# Systems and hardware used for testing
+
+Custom Gaming PC: Intel Core i5 9400F
+
 
 # Legal
 
