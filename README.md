@@ -30,7 +30,7 @@ Link:
 
 
 
-# Legal Stuff
+# Legal
 
 
 
