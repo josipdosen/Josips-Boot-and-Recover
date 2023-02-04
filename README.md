@@ -12,7 +12,7 @@ Josips Boot and Recover (also known as Project Codename: Resurrection) is a modi
 
 **USB Storage:** 4GB
 
-**Motherboard Firmware:** UEFI is Recommended but not needed
+**Motherboard Firmware:** UEFI is recommended but not needed
 
 **Apple iMac Support:** 
 
