@@ -18,6 +18,8 @@ Josips Boot and Recover (also known as Project Codename: Resurrection) is a modi
 
 # Download
 
+The .ISO Image is uploaded to MEGA Cloud Storage due to GitHub's Upload limitation.
+
 Link: https://mega.nz/file/GrRU0ASL#TqLqOrYOwt3XcdBLwuJ2Pnc3k093Voq7vkS7mTOI3MA  (Size: 1.72 GB)
 
 # Programs and Features Included
