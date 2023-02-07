@@ -15,7 +15,7 @@ Josips Boot and Recover (also known as Project Codename: Resurrection) is a modi
 **Motherboard Firmware:** UEFI is recommended but not needed
 
 **Apple iMac Support:** All Apple iMac, MacBooks, Mac Pro's with a Intel x86 x64bit CPU from Q1 2010 or newer will boot and work with the Operating System.
-Apple Computers with ARM-based CPUs such as the Apple M1 and Apple M2 will not work 
+Apple Computers with ARM-based CPUs such as the Apple M1 and Apple M2 will not work. The tools in this OS will be for fixing Windows Installations but there is some software for recovering data from Apple formatted Hard Drives. All benchmarking, security and diagnostic software will work with Apple Computers.
 
 # Download
 
