@@ -65,8 +65,3 @@ These were all the systems used for testing to ensure that the Operating System 
 
 
 
-
-
-
-
-
