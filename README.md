@@ -1,5 +1,10 @@
 # Josips Boot and Recover - Project Resurrection
 
+<p align="center">
+<img align="center" src=".img/Josips Boot and Recover OS logo.png" width="900">
+</p>
+
+
 Josips Boot and Recover (also known as Project Codename: Resurrection) is a modified Windows-based Operating System that is designed to fix a Windows Installation or to perform diagnostics on your x86-64bit based Computer from a USB flash drive. With the useful tools inside this modified version of Windows, you can fix many problems related to your computer. 
 
 # System Requirments:
@@ -25,8 +30,9 @@ Link: https://mega.nz/file/GrRU0ASL#TqLqOrYOwt3XcdBLwuJ2Pnc3k093Voq7vkS7mTOI3MA 
 
 # Programs and Features Included
 
-
-
+<p align="center">
+<img align="center" src=".img/Screenshot 2023-02-08 211642.png" width="900">
+</p>
 
 # FAQ
 
