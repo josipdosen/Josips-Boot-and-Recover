@@ -1,7 +1,7 @@
 # Josips Boot and Recover - Project Resurrection
 
 <p align="center">
-<img align="center" src="img/Josips Boot and Recover OS logo.png" width="900">
+<img align="center" src="img/Screenshot 2023-02-09 121824.png" width="900">
 </p>
 
 
