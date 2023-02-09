@@ -22,11 +22,13 @@ Josips Boot and Recover (also known as Project Codename: Resurrection) is a modi
 **Apple iMac Support:** All Apple iMac, MacBooks, Mac Pro's with a Intel x86 x64bit CPU from Q1 2010 or newer will boot and work with the Operating System.
 Apple Computers with ARM-based CPUs such as the Apple M1 and Apple M2 will not work. The tools in this OS will be for fixing Windows Installations but there is some software for recovering data from Apple formatted Hard Drives. All benchmarking, security and diagnostic software will work with Apple Computers.
 
+Languages Planned: German, Spanish, Italian, Croatian, Ukrainian
+
 # Download
 
 The .ISO Image is uploaded to MEGA Cloud Storage due to GitHub's Upload limitation.
 
-Link: https://mega.nz/file/GrRU0ASL#TqLqOrYOwt3XcdBLwuJ2Pnc3k093Voq7vkS7mTOI3MA  (Size: 1.72 GB)
+Link: https://mega.nz/file/GrRU0ASL#TqLqOrYOwt3XcdBLwuJ2Pnc3k093Voq7vkS7mTOI3MA  (Size: 1.72 GB) (Language: English)
 
 # Programs and Features Included
 
