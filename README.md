@@ -38,10 +38,6 @@ Link: https://mega.nz/file/GrRU0ASL#TqLqOrYOwt3XcdBLwuJ2Pnc3k093Voq7vkS7mTOI3MA 
 <img align="center" src="img/Screenshot 2023-02-08 211642.png" width="900">
 </p>
 
-# FAQ
-
-
-
 # Systems and hardware used for testing
 
 These were all the systems used for testing to ensure that the Operating System works on wide variety of systems:
