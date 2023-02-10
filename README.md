@@ -4,6 +4,9 @@
 <img align="center" src="img/Screenshot 2023-02-09 121824.png" width="900">
 </p>
 
+<p align="center">
+<img align="center" src="img/Screenshot 2023-02-09 171623.png" width="900">
+</p>
 
 Josips Boot and Recover is a modified Windows 11 PE-based Operating System that is designed to fix a Windows Installation or to perform diagnostics on your x86-64bit based Computer from a USB Flash Drive.  With the useful tools inside this modified version of Windows, you can fix many problems related to your computer. 
 
