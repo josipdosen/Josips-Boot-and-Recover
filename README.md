@@ -55,9 +55,5 @@ These were all the systems used for testing to ensure that the Operating System 
 **MSI Gaming GF63 Thin 9SCSR (Laptop):** CPU: Intel Core i5 9300H - GPU: NVIDIA GTX 1650 with Max-Q - Memory (RAM): 16 GB - UEFI Firmware: Enabled
 
 
-# Legal
-
-
-
 
 
