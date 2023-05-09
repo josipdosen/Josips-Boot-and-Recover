@@ -1,4 +1,4 @@
-# Josips Boot and Recover
+# Josip's Boot and Recover
 
 <p align="center">
 <img align="center" src="img/Screenshot 2023-02-09 121824.png" width="900">
@@ -57,7 +57,7 @@ These were all the systems used for testing to ensure that the Operating System 
 **MSI Gaming GF63 Thin 9SCSR (Laptop):** CPU: Intel Core i5 9300H - GPU: NVIDIA GTX 1650 with Max-Q - Memory (RAM): 16 GB - UEFI Firmware: Enabled
 
 
-Last Updated: February 2023
+Last Updated: May 2023
 
 
 
