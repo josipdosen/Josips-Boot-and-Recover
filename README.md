@@ -1,4 +1,4 @@
-# Josip's Boot and Recover
+# Josip's Boot and Recover (Codenamed: Resurrection)
 
 <p align="center">
 <img align="center" src="img/Screenshot 2023-02-09 121824.png" width="900">
